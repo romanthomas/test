@@ -1,0 +1,54 @@
+[33mcommit badaea09a856cc227f36b50b3abac3bb3ec8b08e[m
+Merge: c89ad8b 93013c3
+Author: mhk_server <it@kirstein.de>
+Date:   Sat Feb 15 21:01:44 2014 +0100
+
+    Merge branch 'master' of github.com:romanthomas/test
+    
+    Conflicts:
+    	config.php
+
+[33mcommit 93013c30d2bbe35b7517a4a7574f46569383c9e5[m
+Author: romanthomas <roman@kirstein.de>
+Date:   Sat Feb 15 20:54:25 2014 +0100
+
+    Config auf github erweitert
+
+[33mcommit c89ad8b64c6341355521b5cd31764f480a2bf616[m
+Author: mhk_server <it@kirstein.de>
+Date:   Sat Feb 15 20:54:04 2014 +0100
+
+    Config angepasst
+
+[33mcommit f8903f060dddb7d489c89fcd0b0a8f1d81d72263[m
+Author: mhk_server <it@kirstein.de>
+Date:   Sat Feb 15 20:44:32 2014 +0100
+
+    Eine wichtige Zeile wurde ergänzt
+    
+    Wichtiger zusätzlicher Text!!!
+    Und noch eine Zeile.
+
+[33mcommit e3bfa55f788268cf261d4a3751afa30f316d9b7a[m
+Author: mhk_server <it@kirstein.de>
+Date:   Sat Feb 15 20:40:02 2014 +0100
+
+    index um wichtige ausgabe erweitert
+
+[33mcommit 87b50812b7e65b26d19f844e0ff7fa8c7560ec2e[m
+Author: romanthomas <roman@kirstein.de>
+Date:   Fri Feb 14 21:36:36 2014 +0100
+
+    Letzte Zeile hinzugefügt
+
+[33mcommit 9736e2c111fba78f10ce0c7ff46351f96ec6ad80[m
+Author: romanthomas <roman@kirstein.de>
+Date:   Fri Feb 14 21:05:13 2014 +0100
+
+    Um echo erweitert
+
+[33mcommit 0b0ad02ac0c16a82a99a797adc1e1aed47a7f1c9[m
+Author: romanthomas <roman@kirstein.de>
+Date:   Fri Feb 14 21:04:30 2014 +0100
+
+    Dateien erstellt
