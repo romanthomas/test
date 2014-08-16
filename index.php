@@ -12,4 +12,6 @@ echo "Mhhh - ob das was taugt?";
 
 echo "eine Änderung mit PHPStorm";
 
+echo "neuer Commit direkt in GitHub!";
+
 ?>
